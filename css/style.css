@@ -42,3 +42,13 @@ nav li {
     margin: 20px;
   } 
 }
+
+
+#firstimg {
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+.grey-text {
+    color: gray;
+}
